@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey, I’m Ritwik Sharma, a third year Computer Science Engineering student pursuing my bachelors from UPES dehradun. <br>
-I am currently living at Bangalore, India.
+Hey, I’m Ritwik Sharma, a third year Computer Science Engineering student pursuing my bachelors from UPES dehradun. I am currently living at Bangalore, India.
 
 At present I am Interning at Red Hat Bangalore as an Software Engineering Intern in Performance and Scaling team. I am working on ELK (ElasticSearch, Logstash and Kibana) stack and I am here for implementing Machine learning in ElasticSearch. I joined here on 21st May and I will be working till 20th August.
 
@@ -13,9 +12,8 @@ I like to work on Open source and I am always eager for new ideas and opportunit
 
 ### More Information
 
-You can find more about me here:
+You can find more about me here: [My Personal Homepage](ritwik12.github.io) 
 
 ### Contact me
 
-[My Personal Homepage](ritwik12.github.io) <br>
 [ritwik.1204@gmail.com](mailto:ritwik.1204@gmail.com)
