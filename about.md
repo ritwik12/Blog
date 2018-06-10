@@ -12,7 +12,7 @@ I like to work on Open source and I am always eager for new ideas and opportunit
 
 ### More Information
 
-You can find more about me here: [My Personal Homepage](ritwik12.github.io) 
+You can find more about me here: [My Personal Homepage](https://ritwik12.github.io/) 
 
 ### Contact me
 
