@@ -1,4 +1,4 @@
-> This repo was created by forking Jekyll now
+> This repo was created by forking [Jekyll now](https://github.com/barryclark/jekyll-now)
 
 # Jekyll Now
 
