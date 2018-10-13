@@ -10,6 +10,7 @@ of how big this universe is? Let's see few things.</p>
 <h3>XDF</h3>
 
 ![_config.yml]({{ site.baseurl }}/images/XDF.jpg)
+<i>(Credit: NASA; ESA; G. Illingworth, D. Magee, and P. Oesch, University of California, Santa Cruz; R. Bouwens, Leiden University; and the HUDF09 Team)</i>
 
 <p style="text-align:justify;">
 The <b>Hubble Space Telescope</b> has captured the farthest-ever view into the universe, a photo that reveals thousands of galaxies 
