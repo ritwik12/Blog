@@ -40,13 +40,13 @@ said in a statement. "XDF allows us to explore further back in time than ever be
 Another view of how big the universe is, 1 billion light years is the distance shown here. So, even light needs 1 billion years 
 to reach earth from there which means we are looking 1 billion years in the past. Lots of things visible in the night sky could 
 not be even there in reality and so many things which are there may not be visible as they are so far away that light from those
-objects takes years to travel to earth. If a star dies or born in our universe then we will not be able to know notice that for 
+objects takes years to travel to earth. If a star dies or born in our universe then we will not be able to notice that for 
 almost thousands of years.</p>
 
 <p style="text-align:justify;">
 <a href="https://en.wikipedia.org/wiki/Voyager_1">Voyager 1</a> is the first manmade object to travel beyond the solar system 
-and reach Interstellar space. It is travelling at a speed of <b>17 km per second</b>. The speed of light is <b>299792 Kms per 
-second<b> and the nearest star to us is <b>Proxima Centauri</b> which is about 4.22 light years away from us. Proxima Centauri 
+and reach Interstellar space. It is travelling at a speed of <b>17 km per second</b>. The speed of light is <b>299792 Km per 
+second</b> and the nearest star to us is <b>Proxima Centauri</b> which is about 4.22 light years away from us. Proxima Centauri 
 has been suggested as a logical first destination for interstellar travel, although as a flare star it would not be particularly
 hospitable. The current standard spaceship, the Space Shuttle, travels in orbit at 7.8 km per second. At that speed, it would 
 take 160,000 years to reach Proxima. The fastest man-made spacecraft, the Helios II deep space probe, has set a speed record of 
@@ -58,11 +58,10 @@ beyond the current lifespan of both man and machine.</p>
 That was just one star we have talked about and even travelling to that isn't possible right now. There are about 10 billion 
 galaxies in the observable universe! The number of stars in a galaxy varies, but assuming an average of 100 billion stars per 
 galaxy means that there are about 1,000,000,000,000,000,000,000 (that's 1 billion trillion) stars in the observable universe!. 
-Wait, here I just said <b>observable universe!</b>. All the stars, planets and galaxies that can be seen today make up just 4 
-percent of the universe. The other 96 percent is made of stuff astronomers can't see, detect or even comprehend. These 
-mysterious substances are called <b>dark energy</b> and <b>dark matter</b>. Astronomers infer their existence based on their 
-gravitational influence on what little bits of the universe can be seen, but dark matter and energy themselves continue to 
-elude all detection.</p>
+Wait, here I just said <b>observable universe!</b>. </p>
+
+<p style="text-align:justify;">
+All the stars, planets and galaxies that can be seen today make up just 4 percent of the universe. The other 96 percent is made of stuff astronomers can't see, detect or even comprehend. These mysterious substances are called <b>dark energy</b> and <b>dark matter</b>. Astronomers infer their existence based on their gravitational influence on what little bits of the universe can be seen, but dark matter and energy themselves continue to elude all detection.</p>
 
 <p style="text-align:justify;">
 We have already seen how vast the universe is and it is just 4 percent of the actual universe present out there. So, how could that
