@@ -58,7 +58,7 @@ beyond the current lifespan of both man and machine.</p>
 That was just one star we have talked about and even travelling to that isn't possible right now. There are about 10 billion 
 galaxies in the observable universe! The number of stars in a galaxy varies, but assuming an average of 100 billion stars per 
 galaxy means that there are about 1,000,000,000,000,000,000,000 (that's 1 billion trillion) stars in the observable universe!. 
-Wait, here I just said <b>observable universe!</b>. </p>
+Wait, here I just said <b>observable universe!</b> </p>
 
 <p style="text-align:justify;">
 All the stars, planets and galaxies that can be seen today make up just 4 percent of the universe. The other 96 percent is made of stuff astronomers can't see, detect or even comprehend. These mysterious substances are called <b>dark energy</b> and <b>dark matter</b>. Astronomers infer their existence based on their gravitational influence on what little bits of the universe can be seen, but dark matter and energy themselves continue to elude all detection.</p>
@@ -68,10 +68,10 @@ We have already seen how vast the universe is and it is just 4 percent of the ac
 be possible that we are alone? It isn't satisfying to believe that we are and it isn't yet to be proved that we aren't.  The Solar 
 System's planets (8 in total) and officially recognized dwarf planets are known to be orbited by 194 natural satellites, or moons. 
 There is already so much in our own solar system that we can't even think about other solar systems to be explored. We are trying
-our best to increase the speed of travel by creating much faster space shuttles. But we can never reach explore the world with 
+our best to increase the speed of travel by creating much faster space shuttles. But we can never explore the world with 
 just speed. The speed of light is the fastest thing in the universe and even it is not enough when it comes to Interstellar space.
 The approach needs to be changed. It's just like walking faster and faster when you should be traveling by airplane. The theory 
-of <a href="https://en.wikipedia.org/wiki/Wormhole">Wormholes</a> seems w=fictional right now. But if it is true then we can explore 
+of <a href="https://en.wikipedia.org/wiki/Wormhole">Wormholes</a> seems fictional right now. But if it is true then we can explore 
 the universe without the limit of speed, "Decreasing distance is better than increasing speed".</p>
 
 <p style="text-align:justify;">
