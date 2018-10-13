@@ -5,7 +5,7 @@ title: We can't be all Alone!!
 
 <p style="text-align:justify;">
 The same question again and again over many centuries, How can we be all alone in this never ending vast Universe. To get an idea 
-of how big this universe is? Let's see few things.</p>
+of how big this universe is? Let's see.</p>
 
 <h3>XDF</h3>
 
