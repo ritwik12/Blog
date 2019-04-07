@@ -9,6 +9,10 @@ I was a Software Engineering Intern at Red Hat in Performance and Scaling team.
 
 
 I like to work on Open source and I am always eager for new ideas and opportunities to work on, I like to code and I try my best to improve my coding skills whenever I can. As in a world full of great programmers I am a small fraction.
+I like to work on Artificial Intelligence and Machine Learning, I try to make awesome things too.
+
+Things apart, I love Coffee, chocolates, Cosmology, movies, Basketball, books, Lamborghini, MUSIC and a lot of many things. 
+I like connecting with people and making friends ;)
 
 ### More Information
 
