@@ -20,8 +20,8 @@ even happen.</p>
 
 <p style="text-align:justify;">
 The big thing is done, you already know what you want. Now it's about making your way up and achieving it.
-To get things done first be aware of what it takes. No dream should cost you your Happiness. If a dream is taking your Happiness from you, It isn't worth going too far for it. Stay Happy :) and smile first. So, I suppose you are smiling and thinking about your dream. Every person is very unique. We all have very different dreams. and to achieve them it will also take different approaches
-and that too will be of your own. Making your own way to somewhere requires a lot of will and believe in yourself. Have faith that you can do, if you can't then do what it takes to make yourself believe that you can. Things get better when you have trust
+To get things done first be aware of what it takes. No dream should cost you your Happiness. If a dream is taking your Happiness from you, It isn't worth going too far for it. Stay Happy and Smile :) first. So, I suppose you are smiling and thinking about your dream. Every person is very unique. We all have very different dreams. and to achieve them it will also take different approaches
+and that too will be of your own. Making your own way to somewhere requires a lot of will and belief in yourself. Have faith that you can do, if you can't then do what it takes to make yourself believe that you can. Things get better when you have trust
 and faith in yourself. Nobody can push you if you aren't pushing yourself.</p>
 
 <h2>It's ohk to have fun because if you don't Frustration and Depression is on your way</h2>
