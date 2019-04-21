@@ -24,7 +24,7 @@ To get things done first be aware of what it takes. No dream should cost you you
 and that too will be of your own. Making your own way to somewhere requires a lot of will and belief in yourself. Have faith that you can do, if you can't then do what it takes to make yourself believe that you can. Things get better when you have trust
 and faith in yourself. Nobody can push you if you aren't pushing yourself.</p>
 
-<h2>It's ohk to have fun because if you don't Frustration and Depression is on your way</h2>
+<h2>It's ohk to have fun because if you don't, Frustration and Depression is on your way</h2>
 <p style="text-align:justify;">
 When you aim for something there's a chance you will be successful or fail. Every failure is just a milestone to your utmost goal.
 If you think you have lost, you already lost the fight. If you think you can still get up, you have just fallen and you will stand again.
