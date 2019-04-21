@@ -45,7 +45,7 @@ If you gave up, don't be disheartened we all do at some point. just find a reaso
 <p style="text-align:justify;">
 It's a dream that you decided on your own. Nobody pushed it to you, then why aren't you the one. You can do it and only you will do it. It's not a good coffee until it's crushed from beans that were ones living quite well on a plant. I do love a good cup of coffee, but I never thought about those coffee beans. You also should not, just think about how good it tastes and leave the tough part aside. At last, it will feel good. If it doesn't, there's still a lot to go</p>
 
-<h2>Never ever give up!, Your dreams are waiting!!</h2>
+<h2>Never ever give up, Your dreams are waiting!!</h2>
 
 
 
