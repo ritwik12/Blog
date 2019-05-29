@@ -8,9 +8,6 @@ This post consist of A Basic Neural Network Implementation using Tensorflow, Ker
 
 <h3>Tensorflow</h3>
 
-![_config.yml]({{ site.baseurl }}/images/XDF.jpg)
-<i>(Credit: NASA; ESA; G. Illingworth, D. Magee, and P. Oesch, University of California, Santa Cruz; R. Bouwens, Leiden University; and the HUDF09 Team)</i>
-
 <p style="text-align:justify;">
 Deep neural networks are all about networks of neurons, with each neuron learning to do its own operation as part of a larger picture. 
 Data such as images enters this network as input, and flows through the network as it adapts itself at training time or predicts outputs in a deployed system.
