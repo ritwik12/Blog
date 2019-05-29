@@ -9,6 +9,10 @@ This post consist of A Basic Neural Network Implementation using Tensorflow, Ker
 <h3>Tensorflow</h3>
 
 <p style="text-align:justify;">
+TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks.
+</p>
+
+<p style="text-align:justify;">
 Deep neural networks are all about networks of neurons, with each neuron learning to do its own operation as part of a larger picture. 
 Data such as images enters this network as input, and flows through the network as it adapts itself at training time or predicts outputs in a deployed system.
 </p>
