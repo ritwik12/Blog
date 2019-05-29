@@ -56,7 +56,7 @@ It runs on Python 2.7 or 3.5 and can seamlessly execute on GPUs and CPUs given t
 
 <h3>Installation</h3>
 
-<p style="text-align:justify;">
+
 Create a Virtual Environment 
 
 ```
@@ -87,8 +87,6 @@ Install Numpy
 ```
 pip3 install numpy
 ```
-</p>
-
 
 <h3>Artificial Neural Network</h3>
 
@@ -136,4 +134,10 @@ Below is the code to implement this,
 
 <br><br>
 This code will give the following output:
+
+![_config.yml]({{ site.baseurl }}/images/outputneural.png)
+
+Here, We can see that we got the value of Y as 18.987537 for a X = 10.0.
+
+We should have got Y = 19.0 but as we have trained our model for 500 epochs only and that too with very little training data i.e just 6 values of X and Y. So this much discrepancies in results are common and ewxpected.
 
