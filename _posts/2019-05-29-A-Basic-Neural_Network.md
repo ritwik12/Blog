@@ -56,7 +56,6 @@ It runs on Python 2.7 or 3.5 and can seamlessly execute on GPUs and CPUs given t
 
 <h3>Installation</h3>
 
-<p style="text-align:justify;">
 Create a Virtual Environment 
 
 ```
@@ -87,4 +86,4 @@ Install Numpy
 ```
 pip3 install numpy
 ```
-</p>
+
