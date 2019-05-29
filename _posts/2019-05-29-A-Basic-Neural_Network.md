@@ -22,7 +22,7 @@ are represented as tensors (three-dimensional arrays), with each pixel having th
 In TensorFlow, computation is approached as a dataflow graph (Figure below). Broadly speaking, in this graph, nodes represent operations (such as addition or 
 multiplica‐ tion), and edges represent data (tensors) flowing around the system.</p>
 
-![_config.yml]({{ site.baseurl }}/images/tensorflow.jpg)
+![_config.yml]({{ site.baseurl }}/images/tensorflow.png)
 <i>A dataflow computation graph. Data in the form of tensors flows through a graph of computational operations that make up our deep neural networks.</i>
 
 <h3>TensorFlow Architecture</h3>
