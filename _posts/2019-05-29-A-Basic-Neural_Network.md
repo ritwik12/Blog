@@ -121,7 +121,7 @@ We will start with a very basic mathematical relation between X and Y.
 Here, Different values of X and Y are given. There's a formula that maps X to Y. Computing that manually is kind of tough as we need to do lots of Hit and trials to arrive at a conclusion.
 </p>
 
-So, the conclusion is:
+The conclusion is:
 
 ```
 Y = 2X - 1
