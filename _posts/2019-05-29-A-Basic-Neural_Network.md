@@ -102,6 +102,8 @@ that of the environment providing the inputs.</p>
 <p style="text-align:justify;">
 Artificial Neural Networks are of different types. Such as Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), etc. A very basic single layer neural network is known as Perceptron. We will not go into much detail here.
 </p>
+![_config.yml]({{ site.baseurl }}/images/ann.png)
+
 
 <h3>Implementation</h3>
 
