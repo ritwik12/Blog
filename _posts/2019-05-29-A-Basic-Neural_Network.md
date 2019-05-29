@@ -56,6 +56,7 @@ It runs on Python 2.7 or 3.5 and can seamlessly execute on GPUs and CPUs given t
 
 <h3>Installation</h3>
 
+<p style="text-align:justify;">
 Create a Virtual Environment 
 
 ```
@@ -86,4 +87,53 @@ Install Numpy
 ```
 pip3 install numpy
 ```
+</p>
+
+
+<h3>Artificial Neural Network</h3>
+
+<p style="text-align:justify;">
+In Layman's terms a Artificial Neural Network is the artificial implementataion of how the human brain works, It consists of 
+Neurons which we call Nodes or units.
+</p>
+<p style="text-align:justify;">
+A neural network is composed of a number of nodes, or units, connected by links. Each link
+has a numeric weight associated with it. Weights are the primary means of long-term storage
+in neural networks, and learning usually takes place by updating the weights. Some of the units
+are connected to the external environment, and can be designated as input or output units. The
+weights are modified so as to try to bring the network's input/output behavior more into line with
+that of the environment providing the inputs.</p>
+<br><br>
+
+<p style="text-align:justify;">
+Artificial Neural Networks are of different types. Such as Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), etc. A very basic single layer neural network is known as Perceptron. We will not go into much detail here.
+</p>
+
+<h3>Implementation</h3>
+
+We will start with a very basic mathematical relation between X and Y. 
+
+![_config.yml]({{ site.baseurl }}/images/xandy.png)
+
+<p style="text-align:justify;">
+Here, Different values of X and Y are given. There's a formula that maps X to Y. Computing that manually is kind of tough as we need to do lots of Hit and trials to arrive at a conclusion.
+</p>
+<br><br>
+
+So, the conclusion is:
+
+```
+Y = 2X - 1
+```
+
+We can use a Neural Network to compute this for us in fraction of seconds. What a Neural Network will do is to guess the value
+again and again just like we were doing by Hit and Trial.
+<br><br>
+Below is the code to implement this,
+<br><br>
+
+<script src="https://gist.github.com/ritwik12/3d3f34c652bccd045ff1e0898568162c.js"></script>
+
+<br><br>
+This code will give the following output:
 
