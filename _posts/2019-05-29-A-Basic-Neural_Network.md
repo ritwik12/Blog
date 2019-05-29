@@ -132,7 +132,7 @@ This code will give the following output:
 
 ![_config.yml]({{ site.baseurl }}/images/outputneural.png)
 
-Here, We can see that we got the value of Y as 18.987537 for a X = 10.0.
+Here, We can see that we got the value of Y as 18.987537 for a value of X = 10.0.
 
-We should have got Y = 19.0 but as we have trained our model for 500 epochs only and that too with very little training data i.e just 6 values of X and Y. So this much discrepancies in results are common and ewxpected.
+We should have got Y = 19.0 but as we have trained our model for 500 epochs only and that too with very little training data i.e just 6 values of X and Y. So, this much discrepancies in results are common and expected.
 
