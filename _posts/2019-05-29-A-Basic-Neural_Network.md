@@ -146,8 +146,7 @@ We should have got Y = 19.0 but as we have trained our model for 500 epochs only
 
 Just like this Artificial Neural Networks could be used in a number of ways such as Image Classifications, Natural language Processing, Voice recognition and a lot.
 
-TensorFlow is the latest and very reliable library or framework to build Networks. It also consists of visualisation toolkits
-such as TensorBoard and  a flexible, high-performance serving system to serve/ export models known as TensorFlow Serving.
+TensorFlow is the latest and very reliable library or framework to build Neural Networks. It also consists of visualisation toolkits such as TensorBoard and  a flexible, high-performance serving system to serve/ export models known as TensorFlow Serving.
 
 
 
