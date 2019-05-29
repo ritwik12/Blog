@@ -4,9 +4,9 @@ title: A Basic Neural Network!!
 ---
 
 <p style="text-align:justify;">
-This post consist of a Basic Neural Network Implementation using Tensorflow, Keras, Numpy and Python.</p>
+This post consist of a Basic Neural Network Implementation using TensorFlow, Keras, Numpy and Python.</p>
 
-<h3>Tensorflow</h3>
+<h3>TensorFlow</h3>
 
 <p style="text-align:justify;">
 TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks.
@@ -29,7 +29,7 @@ In TensorFlow, computation is approached as a dataflow graph (Figure below). Bro
 <h3>TensorFlow Architecture</h3>
 
 <p style="text-align:justify;">
-Tensorflow architecture works in three parts:</p>
+TensorFlow architecture works in three parts:</p>
 
 <ul>
   <li>Preprocessing the data</li>
@@ -38,7 +38,7 @@ Tensorflow architecture works in three parts:</p>
 </ul> 
 
 <p style="text-align:justify;">
-It is called Tensorflow because it takes input as a multi-dimensional array, also known as tensors. You can construct a sort of flowchart of operations (called a Graph) 
+It is called TensorFlow because it takes input as a multi-dimensional array, also known as tensors. You can construct a sort of flowchart of operations (called a Graph) 
 that you want to perform on that input. The input goes in at one end, and then it flows through this system of multiple operations and comes out the other end as output.
 <br> <br>
   
@@ -72,7 +72,7 @@ Activate Virtual Environment
 source ~/home/tensorflow/bin/activate
 ```
 
-Install Tensorflow
+Install TensorFlow
 
 ```
 pip3 install tensorflow
@@ -142,5 +142,12 @@ This code will give the following output:
 
 Here, We can see that we got the value of Y as 18.987537 for a value of X = 10.0.
 
-We should have got Y = 19.0 but as we have trained our model for 500 epochs only and that too with very little training data i.e just 6 values of X and Y. So, this much discrepancies in results are common and expected.
+We should have got Y = 19.0 but as we have trained our model for 500 epochs only and that too with very little training data i.e. just 6 values of X and Y. So, this much discrepancies in results are common and expected.
+
+Just like this Artificial Neural Networks could be used in a number of ways such as Image Classifications, Natural language Processing, Voice recognition and a lot.
+
+TensorFlow is the latest and very reliable library or framework to build Networks. It also consists of visualisation toolkits
+such as TensorBoard and  a flexible, high-performance serving system to serve/ export models known as TensorFlow Serving.
+
+
 
