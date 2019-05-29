@@ -4,7 +4,7 @@ title: A Basic Neural Network!!
 ---
 
 <p style="text-align:justify;">
-This post consist of A Basic Neural Network Implementation using Tensorflow, Keras, Numpy and Python.</p>
+This post consist of a Basic Neural Network Implementation using Tensorflow, Keras, Numpy and Python.</p>
 
 <h3>Tensorflow</h3>
 
@@ -106,7 +106,7 @@ that of the environment providing the inputs.</p>
 <p style="text-align:justify;">
 Artificial Neural Networks are of different types. Such as Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), etc. A very basic single layer neural network is known as Perceptron. We will not go into much detail here.
 </p>
-
+<br>
 
 ![_config.yml]({{ site.baseurl }}/images/ann.png)
 
