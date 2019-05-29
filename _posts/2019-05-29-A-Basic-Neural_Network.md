@@ -11,16 +11,13 @@ This post consist of A Basic Neural Network Implementation using Tensorflow, Ker
 <p style="text-align:justify;">
 Deep neural networks are all about networks of neurons, with each neuron learning to do its own operation as part of a larger picture. 
 Data such as images enters this network as input, and flows through the network as it adapts itself at training time or predicts outputs in a deployed system.
-.</p>
+</p>
 
 <p style="text-align:justify;">
-Tensors are the standard way of representing data in deep learning. Simply put, ten‐ sors are just multidimensional arrays, an extension of two-dimensional 
-tables (matri‐ ces) to data with higher dimensionality. Just as a black-and-white (grayscale) images are represented as “tables” of pixel values, RGB images 
-are represented as tensors (three-dimensional arrays), with each pixel having three values corresponding to red, green, and blue components.</p>
+Tensors are the standard way of representing data in deep learning. Simply put, tensors are just multidimensional arrays, an extension of two-dimensional tables (matrices) to data with higher dimensionality. Just as a black-and-white (grayscale) images are represented as “tables” of pixel values, RGB images are represented as tensors (three-dimensional arrays), with each pixel having three values corresponding to red, green, and blue components.</p>
 
 <p style="text-align:justify;">
-In TensorFlow, computation is approached as a dataflow graph (Figure below). Broadly speaking, in this graph, nodes represent operations (such as addition or 
-multiplica‐ tion), and edges represent data (tensors) flowing around the system.</p>
+In TensorFlow, computation is approached as a dataflow graph (Figure below). Broadly speaking, in this graph, nodes represent operations (such as addition or multiplication), and edges represent data (tensors) flowing around the system.</p>
 
 ![_config.yml]({{ site.baseurl }}/images/tensorflow.png)
 <i>A dataflow computation graph. Data in the form of tensors flows through a graph of computational operations that make up our deep neural networks.</i>
@@ -101,7 +98,6 @@ in neural networks, and learning usually takes place by updating the weights. So
 are connected to the external environment, and can be designated as input or output units. The
 weights are modified so as to try to bring the network's input/output behavior more into line with
 that of the environment providing the inputs.</p>
-<br><br>
 
 <p style="text-align:justify;">
 Artificial Neural Networks are of different types. Such as Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), etc. A very basic single layer neural network is known as Perceptron. We will not go into much detail here.
@@ -116,7 +112,6 @@ We will start with a very basic mathematical relation between X and Y.
 <p style="text-align:justify;">
 Here, Different values of X and Y are given. There's a formula that maps X to Y. Computing that manually is kind of tough as we need to do lots of Hit and trials to arrive at a conclusion.
 </p>
-<br><br>
 
 So, the conclusion is:
 
