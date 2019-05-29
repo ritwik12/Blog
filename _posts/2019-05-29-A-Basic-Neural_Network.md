@@ -39,5 +39,52 @@ Tensorflow architecture works in three parts:</p>
 <p style="text-align:justify;">
 It is called Tensorflow because it takes input as a multi-dimensional array, also known as tensors. You can construct a sort of flowchart of operations (called a Graph) 
 that you want to perform on that input. The input goes in at one end, and then it flows through this system of multiple operations and comes out the other end as output.
-<br>
+<br> <br>
+  
 This is why it is called TensorFlow because the tensor goes in it flows through a list of operations, and then it comes out the other side.</p>
+
+<h3>Keras</h3>
+
+<p style="text-align:justify;">
+Keras is a minimalist Python library for deep learning that can run on top of Theano or TensorFlow.
+<br> <br>
+
+It was developed to make implementing deep learning models as fast and easy as possible for research and development.
+<br> <br>
+
+It runs on Python 2.7 or 3.5 and can seamlessly execute on GPUs and CPUs given the underlying frameworks. It is released under the permissive MIT license.</p>
+
+<h3>Installation</h3>
+
+<p style="text-align:justify;">
+Create a Virtual Environment 
+
+```
+pip3 install virtualenv
+
+virtualenv -p ~/home tensorflow
+```
+
+Activate Virtual Environment 
+
+```
+source ~/home/tensorflow/bin/activate
+```
+
+Install Tensorflow
+
+```
+pip3 install tensorflow
+```
+
+Install Keras
+
+```
+pip3 install Keras
+```
+Install Numpy
+
+```
+pip3 install numpy
+```
+</p>
