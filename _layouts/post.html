@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<!DOCTYPE html>
 <html>
   <head>
      <!-- Add Favicon to head -->
@@ -19,17 +20,19 @@ layout: default
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.ico/favicon-16x16.png">
     <link rel="manifest" href="images/favicon.ico/manifest.json">
   </head>
-<article class="post">
-  <h1>{{ page.title }}</h1>
+  <body>
+  <article class="post">
+    <h1>{{ page.title }}</h1>
 
-  <div class="entry">
-    {{ content }}
-  </div>
+    <div class="entry">
+      {{ content }}
+    </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+    <div class="date">
+      Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
 
-  {% include disqus.html %}
-</article>
+    {% include disqus.html %}
+  </article>
+  </body>
 </html>
