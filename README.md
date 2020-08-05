@@ -1,1 +1,1 @@
-[<h1>Blog</h1>](ritwik12.github.io/blog/)
+[<h1>Blog</h1>](https://ritwik12.github.io/Blog/)
