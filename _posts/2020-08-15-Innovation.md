@@ -51,12 +51,12 @@ Most innovations are coincidence or accidents happened to people and in those ti
 
 <p style="text-align:justify;">
 Most scientists are busy in doing research but not Innovation. We are busy in finding something that is already available but doesn't want to give a thought of 
-creating something way too different than already available. <br>
+creating something way too different than already available. <br><br>
 
 The best example is transportation. Engineers and Scientists spend years in achieving high speeds. From inventing the wheel to Space Rockets the era changed and the innovations came in the picture.
-But going the same way isn't the way to Innovate anymore. We want to achieve light speed with fuel and propulsion. We never gave a thought to something new.<br>
+But going the same way isn't the way to Innovate anymore. We want to achieve light speed with fuel and propulsion. We never gave a thought to something new.<br><br>
 
-The Wormhole was one of the most innovative ideas for transportation. But most of the time the Innovative things are merely believed to be fictions rather than reality.<br>
+The Wormhole was one of the most innovative ideas for transportation. But most of the time the Innovative things are merely believed to be fictions rather than reality.<br><br>
 
 Another field is Artificial Intelligence and Machine Learning. In reality, if we go deep into the foundations of it. It is using mathematical formulas in an intelligent way and trains the Model to perform something.
 It isn't intelligence. Cognitive Science is a much promising field but it is mostly seen in fiction and Movies and thought to be something dangerous.
