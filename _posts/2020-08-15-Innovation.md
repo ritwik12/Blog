@@ -30,6 +30,8 @@ an article by Nick Skillicorn</a> based on interviews with 15 innovators:
 These are all professional or corporate terms which look good on paper but hard to understand for the heart and mind.</p>
 
 <h3>Just Innovation!</h3>
+![_config.yml]({{ site.baseurl }}/images/Innovation.jpg)
+
 <p style="text-align:justify;">
 It is something that one does when they don't want to follow the already available methods.
 Finding a solution to a problem from the usual solution being used for years by the crowd.
