@@ -4,7 +4,7 @@ title: Innovation!!
 ---
 
 <p style="text-align:justify;">
-Following your heart and doing something other than the usual</p>
+Those imaginations look better when introduced with practicality. Following your heart and doing something unusual is what we all crave for. Making Fiction a reality and naive ideas an incredible Innovation. We want things in a different way by following the regular way. Instead of Innovating, we are wagging the usual way.</p>
 
 <h3>Innovation</h3>
 
@@ -65,5 +65,5 @@ Watch 5-10 AI movies and even the AI researcher will start thinking "Am I the de
 
 <p style="text-align:justify;">
 Science is beautiful, it answers our questions and Mathematics backs it up with prooves. Innovations are the need and necessity of Science. 
-Learning from the already available researches and Innovating something new is the pure use of Science and Knowledge.
+Learning from the already available researches and Innovating something new is the pure use of Science and Knowledge which we all should do to Innovate awesomely things every single day of our lives.
 </p>
