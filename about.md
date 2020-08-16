@@ -27,11 +27,6 @@ You can find more about me here: [My Personal Homepage](https://ritwik12.github.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="ritwik-sharma-205a85148"><a class="LI-simple-link" href='https://in.linkedin.com/in/ritwik-sharma-205a85148?trk=profile-badge'>Ritwik Sharma</a></div>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="ritwik-sharma-205a85148"><a class="LI-simple-link" href='https://in.linkedin.com/in/ritwik-sharma-205a85148?trk=profile-badge'>Ritwik Sharma</a></div>
-
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="ritwik-sharma-205a85148"><a class="LI-simple-link" href='https://in.linkedin.com/in/ritwik-sharma-205a85148?trk=profile-badge'>Ritwik Sharma</a></div>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="ritwik-sharma-205a85148"><a class="LI-simple-link" href='https://in.linkedin.com/in/ritwik-sharma-205a85148?trk=profile-badge'>Ritwik Sharma</a></div>
 
