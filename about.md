@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey, I’m Ritwik Sharma, spending my each day at LinkedIn as an Site Reliability Engineer.
+Hey, This is Ritwik Sharma, spending each day at LinkedIn as an Site Reliability Engineer.
 My work and interests are mostly related to Artificial Intelligence (mainly in Deep Learning)
 Previously, I was a Software Engineering Intern at Red Hat in Performance and Scaling team.
 
